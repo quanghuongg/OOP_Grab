@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChuyenDiThanhCong">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQBAAAAAAAAAABAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChuyenDiThanhCong.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CongTy">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAACAAAgAQAA=</HashCode>
+      <FileName>CongTy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KhachHang" Collapsed="true">
+    <Position X="8.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAwCAAAgAAAAAAAAAAAAAAAAAAAAAIAIAAgAAAA=</HashCode>
+      <FileName>KhachHang.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToaDoGPS">
+    <Position X="9" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAAAAAABAAAAAAAAAAACCAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ToaDoGPS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CXe">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIABAAgAAACAIAAAAkAAAAAAAAEAAABAAAAA=</HashCode>
+      <FileName>Xe.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XeMay">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAQAAAAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XeMay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XeOto">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAgAAAAAIAAAAEIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XeOto.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XeTai">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAABAIAAAAAIAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XeTai.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TrangThai">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACAAAA=</HashCode>
+      <FileName>Xe.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

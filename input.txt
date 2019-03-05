@@ -1,0 +1,51 @@
+10
+1
+50K3-1123
+Nguyen Van A
+Honda RSX 2008
+0
+2
+37J3-2893
+Tran Van B
+Toyota
+7
+3
+37KE-2189
+Nguyen Van C
+Hyundai
+1500
+1
+69U2-0073
+Ton That Dat
+SH  150CC
+0
+2
+47M2-0483
+Nguyen Cong D
+Ford
+16
+3
+52BK-1036
+Le Van D
+BenZ
+750
+1
+16P3-2413
+Ho Van K
+Blade 2008
+0
+2
+47U9-5005
+Ta Quang L
+Audi
+4
+3
+24PL-4178
+Truong Van Q
+ThaCo
+1900
+1
+74L3-1939
+Ha Van M
+Jupiter 22
+0
